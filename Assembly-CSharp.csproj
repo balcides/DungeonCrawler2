@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Mover.cs" />
      <Compile Include="Assets\Scripts\Test.cs" />
      <Compile Include="Assets\Tools\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
      <Compile Include="Assets\Tools\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
