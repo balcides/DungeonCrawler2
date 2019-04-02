@@ -79,6 +79,7 @@
      <None Include="Assets\Tools\ProBuilder\Shader\pb_SelectionPicker.shader" />
      <None Include="Assets\Tools\ProBuilder\About\changelog.txt" />
      <None Include="Assets\Tools\ProBuilder\Shader\DiffuseVertexColor.shader" />
+     <None Include="Assets\Asset Packs\AP_Animations\README - Usage Rights for these assets 1.txt" />
      <None Include="Assets\Tools\ProBuilder\Shader\pb_FaceHighlight.shader" />
      <None Include="Assets\Tools\ProBuilder\Shader\pb_UnlitSolidColor.shader" />
      <None Include="Assets\Tools\ProCore\ProGrids\About\pc_AboutEntry_ProGrids.txt" />
