@@ -42,12 +42,19 @@ namespace RPG.Combat
         {
             transform.LookAt(target.transform);
 
-            if(timeSinceLastAttack > timeBetweenAttacks){
-
+            if(timeSinceLastAttack > timeBetweenAttacks)
+            {
                 //this will trigger event Hit()
-                GetComponent<Animator>().SetTrigger("attack");
+                TriggerAttack();
                 timeSinceLastAttack = 0;
             }
+        }
+
+
+        private void TriggerAttack()
+        {
+            GetComponent<Animator>().ResetTrigger("stopAttack");
+            GetComponent<Animator>().SetTrigger("attack");
         }
 
 
@@ -56,6 +63,7 @@ namespace RPG.Combat
             Animation Event
          */
         {
+            if(target == null) return;
             target.TakeDamage(weaponDamage);
         }
 
@@ -72,17 +80,24 @@ namespace RPG.Combat
 
         }
 
+
         public bool CanAttack(CombatTarget combatTarget){
             if(combatTarget == null){ return false;}
             Health targetToTest = combatTarget.GetComponent<Health>();
             return targetToTest != null && !targetToTest.IsDead();
         }
 
-        public void Cancel(){
-            GetComponent<Animator>().SetTrigger("stopAttack");
+
+        public void Cancel()
+        {
+            StopAttack();
             target = null;
         }
 
-  
+        private void StopAttack()
+        {
+            GetComponent<Animator>().ResetTrigger("stopAttack");
+            GetComponent<Animator>().SetTrigger("stopAttack");
+        }
     }
 }
