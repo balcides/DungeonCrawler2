@@ -40,7 +40,10 @@ namespace RPG.Combat
             Testing comment
         */ 
         {
+            transform.LookAt(target.transform);
+
             if(timeSinceLastAttack > timeBetweenAttacks){
+                
                 //this will trigger event Hit()
                 GetComponent<Animator>().SetTrigger("attack");
                 timeSinceLastAttack = 0;
