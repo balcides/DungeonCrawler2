@@ -17,10 +17,12 @@ namespace RPG.Control
 
         private bool InteractWithCombat(){
             RaycastHit[] hits = Physics.RaycastAll(GetMouseRay());
-
             foreach (RaycastHit hit in hits){
+
                 CombatTarget target = hit.transform.GetComponent<CombatTarget>();
-                if(target == null) continue; //if target null, go to the next iteration in the loop
+                if(!GetComponent<Fighter>().CanAttack(target)){
+                    continue; //keep going in for loop, go to the next thing
+                }
 
                 if(Input.GetMouseButtonDown(0)){
                     GetComponent<Fighter>().Attack(target);
