@@ -408,7 +408,7 @@ PrefabInstance:
     - target: {fileID: 6980538270502737550, guid: ac4f75265130040579c363a3444e7dcc,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.5
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6980538270502737550, guid: ac4f75265130040579c363a3444e7dcc,
         type: 3}
@@ -2055,7 +2055,7 @@ PrefabInstance:
     - target: {fileID: 6980538270502737550, guid: ac4f75265130040579c363a3444e7dcc,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.99999994
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6980538270502737550, guid: ac4f75265130040579c363a3444e7dcc,
         type: 3}
@@ -2065,7 +2065,7 @@ PrefabInstance:
     - target: {fileID: 6980538270502737550, guid: ac4f75265130040579c363a3444e7dcc,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.49999976
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6980538270502737550, guid: ac4f75265130040579c363a3444e7dcc,
         type: 3}
@@ -2134,7 +2134,7 @@ PrefabInstance:
     - target: {fileID: 6980538270502737550, guid: ac4f75265130040579c363a3444e7dcc,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 6980538270502737550, guid: ac4f75265130040579c363a3444e7dcc,
         type: 3}
@@ -2244,6 +2244,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4689020912958726473, guid: 7b9e1e6fae09646788174841cb5c6d78,
+        type: 3}
+      propertyPath: weaponDamage
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7b9e1e6fae09646788174841cb5c6d78, type: 3}
