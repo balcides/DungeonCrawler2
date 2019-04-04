@@ -1,6 +1,7 @@
 using RPG.Combat;
 using UnityEngine;
 using RPG.Core;
+using RPG.Movement;
 
 namespace RPG.Control
 {
@@ -10,22 +11,26 @@ namespace RPG.Control
         Fighter fighter;
         GameObject player;
         Health health;
+        Vector3 guardPosition;
+        Mover mover;
 
         private void Start(){
 
             fighter = GetComponent<Fighter>();
             player = GameObject.FindWithTag("Player");
+            mover = GetComponent<Mover>();
             health = GetComponent<Health>();
+            guardPosition = transform.position;
         }
 
 
         void Update()
         {
             if(InAttackRangeOfPlayer() && fighter.CanAttack(player)){
-
                 fighter.Attack(player);
+
             }else{
-                fighter.Cancel();
+                mover.StartMoveAction(guardPosition);
             }
         }
 
