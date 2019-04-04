@@ -12,6 +12,7 @@ namespace RPG.Control
         [SerializeField] float suspicionTime = 3f;
         [SerializeField] PatrolPath patrolPath;
         [SerializeField] float waypointTolerance = 1f;
+        [SerializeField] float waypointDwellTime = 3f;
 
         Fighter fighter;
         GameObject player;
@@ -19,6 +20,7 @@ namespace RPG.Control
         Vector3 guardPosition;
         Mover mover;
         float timeSinceLastSawPlayer = Mathf.Infinity;
+        float timeSinceArrivedAtWaypoint = Mathf.Infinity;
         int currentWaypointIndex = 0;
 
 
@@ -34,12 +36,12 @@ namespace RPG.Control
 
         void Update()
         {
-            if(InAttackRangeOfPlayer() && fighter.CanAttack(player))
+            if (InAttackRangeOfPlayer() && fighter.CanAttack(player))
             {
-                timeSinceLastSawPlayer = 0;
+               
                 AttackBehavior();
             }
-            else if(timeSinceLastSawPlayer < suspicionTime)
+            else if (timeSinceLastSawPlayer < suspicionTime)
             {
                 //Suspicion state
                 SuspicionBehavior();
@@ -48,22 +50,36 @@ namespace RPG.Control
             {
                 PatrolBehavior();
             }
+            UpdateTimers();
+        }
 
+
+        private void UpdateTimers()
+        {
             timeSinceLastSawPlayer += Time.deltaTime;
+            timeSinceArrivedAtWaypoint += Time.deltaTime;
         }
 
 
         private void PatrolBehavior()
         {
             Vector3 nextPostion = guardPosition;
+
             if(patrolPath!=null){
+                
                 if(AtWaypoint()){
+
+                    timeSinceArrivedAtWaypoint = 0;
                     CycleWaypoint();
                 }
                 nextPostion = GetCurrentWaypoint();
             }
-            //moves AI back to position when chase fails or out of range.
-            mover.StartMoveAction(nextPostion);
+
+            if(timeSinceArrivedAtWaypoint > waypointDwellTime){
+                //moves AI back to position when chase fails or out of range.
+                mover.StartMoveAction(nextPostion);
+            }
+
         }
 
 
@@ -94,6 +110,7 @@ namespace RPG.Control
 
         private void AttackBehavior()
         {
+            timeSinceLastSawPlayer = 0;
             fighter.Attack(player);
         }
 

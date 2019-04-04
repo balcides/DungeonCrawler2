@@ -33,7 +33,7 @@ namespace RPG.Control
                     continue; //keep going in for loop, go to the next thing
                 }
 
-                if(Input.GetMouseButtonDown(0)){
+                if(Input.GetMouseButton(0)){
                     GetComponent<Fighter>().Attack(target.gameObject);
                 }
                 return true;
