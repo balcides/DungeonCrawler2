@@ -106,6 +106,7 @@
      <Compile Include="Assets\Asset Packs\Cinemachine\Timeline\CinemachineMixer.cs" />
      <Compile Include="Assets\Asset Packs\Cinemachine\Timeline\CinemachineShot.cs" />
      <Compile Include="Assets\Asset Packs\Cinemachine\Timeline\CinemachineTrack.cs" />
+     <Compile Include="Assets\Scripts\Cinematics\CinematicTrigger.cs" />
      <Compile Include="Assets\Scripts\Combat\CombatTarget.cs" />
      <Compile Include="Assets\Scripts\Combat\Fighter.cs" />
      <Compile Include="Assets\Scripts\Control\AIController.cs" />
