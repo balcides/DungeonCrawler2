@@ -33,7 +33,14 @@ namespace RPG.Control
                 }
 
                 if(Input.GetMouseButton(0)){
-                    GetComponent<Fighter>().Attack(target.gameObject);
+                    
+                    //TODO: Cleanup later, not sure if this bug gets addressed
+                    GameObject player = GameObject.FindWithTag("Player");
+                    if(target.gameObject.tag != "Player"){ 
+                        GetComponent<Fighter>().Attack(target.gameObject); 
+                    }
+
+
                 }
                 return true;
             }
