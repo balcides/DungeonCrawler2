@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   chaseDistance: 5
   suspicionTime: 5
+  patrolPath: {fileID: 0}
+  waypointTolerance: 1
+  waypointDwellTime: 3
 --- !u!1001 &5176960575211656293
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -81,22 +84,22 @@ PrefabInstance:
     - target: {fileID: 4820046052469895562, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
       propertyPath: m_Name
-      value: Enemy
+      value: Enemy (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1273679664576246758, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.5
+      value: -13.121772
       objectReference: {fileID: 0}
     - target: {fileID: 1273679664576246758, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 5.2939777
       objectReference: {fileID: 0}
     - target: {fileID: 1273679664576246758, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: 17.633156
       objectReference: {fileID: 0}
     - target: {fileID: 1273679664576246758, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
@@ -143,9 +146,9 @@ PrefabInstance:
       propertyPath: m_Speed
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 33098110220484868, guid: 644e46de455084a7ca5627ea2ba4bd28,
+    - target: {fileID: 3809891453755650845, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
-      propertyPath: healthPoints
+      propertyPath: weaponDamage
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2450989181062885008, guid: 644e46de455084a7ca5627ea2ba4bd28,
@@ -156,10 +159,9 @@ PrefabInstance:
     - target: {fileID: 5138767123043706418, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
       propertyPath: healthPoints
-      value: 20
+      value: 40
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 8860560957062790733, guid: 644e46de455084a7ca5627ea2ba4bd28, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 644e46de455084a7ca5627ea2ba4bd28, type: 3}
 --- !u!1 &3717404980561089762 stripped
 GameObject:
