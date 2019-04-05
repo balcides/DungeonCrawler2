@@ -25,7 +25,8 @@ namespace RPG.Combat
 
             if (!GetIsInRange())
             {
-                GetComponent<Mover>().MoveTo(target.transform.position);
+                //TODO: Refactor 1f to global var
+                GetComponent<Mover>().MoveTo(target.transform.position, 1f);
             }
             else
             {

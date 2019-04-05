@@ -13,12 +13,14 @@ namespace RPG.Control
         [SerializeField] PatrolPath patrolPath;
         [SerializeField] float waypointTolerance = 1f;
         [SerializeField] float waypointDwellTime = 3f;
+        [Range(0,1)] [SerializeField] float patrolSpeedFraction = 0.2f;
 
         Fighter fighter;
         GameObject player;
         Health health;
         Vector3 guardPosition;
         Mover mover;
+
         float timeSinceLastSawPlayer = Mathf.Infinity;
         float timeSinceArrivedAtWaypoint = Mathf.Infinity;
         int currentWaypointIndex = 0;
@@ -66,7 +68,7 @@ namespace RPG.Control
             Vector3 nextPostion = guardPosition;
 
             if(patrolPath!=null){
-                
+
                 if(AtWaypoint()){
 
                     timeSinceArrivedAtWaypoint = 0;
@@ -77,7 +79,7 @@ namespace RPG.Control
 
             if(timeSinceArrivedAtWaypoint > waypointDwellTime){
                 //moves AI back to position when chase fails or out of range.
-                mover.StartMoveAction(nextPostion);
+                mover.StartMoveAction(nextPostion, patrolSpeedFraction);
             }
 
         }
