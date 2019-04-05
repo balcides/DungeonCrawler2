@@ -427,6 +427,8 @@ GameObject:
   - component: {fileID: 176713257}
   - component: {fileID: 176713258}
   - component: {fileID: 176713259}
+  - component: {fileID: 176713261}
+  - component: {fileID: 176713260}
   m_Layer: 2
   m_Name: IntroSequence
   m_TagString: Untagged
@@ -531,6 +533,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a6414c13d37924951a76ec6f82a741d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &176713260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 176713253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef35fa75a79d94c97b6840b6332b0d85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &176713261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 176713253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 253d263ece4264d11bb198bdfd6aa4d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &184117488
@@ -1235,7 +1261,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 339766993}
-  m_LocalRotation: {x: 0.18436235, y: -0.66367376, z: 0.17385323, w: 0.70379174}
+  m_LocalRotation: {x: 0.18436237, y: -0.6636739, z: 0.17385331, w: 0.70379156}
   m_LocalPosition: {x: -55, y: -8.5, z: 49}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -5120,31 +5146,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4689020912958726473, guid: 7b9e1e6fae09646788174841cb5c6d78,
-        type: 3}
-      propertyPath: weaponDamage
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 4689020912958726473, guid: 7b9e1e6fae09646788174841cb5c6d78,
-        type: 3}
-      propertyPath: weaponRange
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4689020912958726473, guid: 7b9e1e6fae09646788174841cb5c6d78,
-        type: 3}
-      propertyPath: timeBetweenAttacks
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6327102376171453636, guid: 7b9e1e6fae09646788174841cb5c6d78,
-        type: 3}
-      propertyPath: m_Radius
-      value: 0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 3647171066550776934, guid: 7b9e1e6fae09646788174841cb5c6d78,
-        type: 3}
-      propertyPath: healthPoints
-      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7b9e1e6fae09646788174841cb5c6d78, type: 3}
