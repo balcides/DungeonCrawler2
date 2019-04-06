@@ -9,12 +9,20 @@ namespace RPG.SceneManagement
     {
         [SerializeField] int sceneToLoad = -1;
 
-        void OnTriggerEnter(Collider other)
+        private void OnTriggerEnter(Collider other)
         {
             if(other.tag == "Player"){
-                SceneManager.LoadScene(sceneToLoad);
+                StartCoroutine(Transition());
             }
         }
+
+        private IEnumerator Transition(){
+            DontDestroyOnLoad(gameObject);
+            yield return SceneManager.LoadSceneAsync(sceneToLoad);
+            print("Scene Loaded");
+            Destroy(gameObject);
+        }
+
     }
 }
 
