@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lesson68-LoadingPortal.unity
+    guid: ae24a46f788784aa3ad9bdb4ec154b75
+  - enabled: 1
+    path: Assets/Scenes/Lesson68-LoadingPortal2.unity
+    guid: 1beea3ccfc89c44cebb2b79910c40373
   m_configObjects: {}
