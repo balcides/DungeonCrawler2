@@ -380,6 +380,21 @@
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>/Applications/Unity/Hub/Editor/2018.3.11f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
+ <Reference Include="ProBuilderCore-Unity5">
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+ </Reference>
+ <Reference Include="ProBuilderMeshOps-Unity5">
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ </Reference>
+ <Reference Include="KdTreeLib">
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+ </Reference>
+ <Reference Include="pb_Stl">
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+ </Reference>
+ <Reference Include="Poly2Tri">
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Analytics.Editor">
  <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
@@ -388,21 +403,6 @@
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
  <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
- </Reference>
- <Reference Include="Poly2Tri">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
- </Reference>
- <Reference Include="KdTreeLib">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
- </Reference>
- <Reference Include="pb_Stl">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderCore-Unity5">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/Applications/Unity/Hub/Editor/2018.3.11f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
