@@ -118,6 +118,7 @@
      <Compile Include="Assets\Scripts\Core\Health.cs" />
      <Compile Include="Assets\Scripts\Core\IAction.cs" />
      <Compile Include="Assets\Scripts\Movement\Mover.cs" />
+     <Compile Include="Assets\Scripts\SceneManagement\Fader.cs" />
      <Compile Include="Assets\Scripts\SceneManagement\Portal.cs" />
      <Compile Include="Assets\Tools\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
      <Compile Include="Assets\Tools\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
