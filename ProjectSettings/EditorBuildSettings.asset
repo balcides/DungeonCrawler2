@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Lesson71-PlayerSpawn.unity
-    guid: 307d3d4b9793a43f7a6c4975f1ea4c35
+    path: Assets/Scenes/Village3.unity
+    guid: aec157051906a4a6f87723980a84e663
   - enabled: 1
-    path: Assets/Scenes/Lesson71-PlayerSpawn2.unity
-    guid: 53e20aeb5f58a41c8adb29fd3bae9edf
+    path: Assets/Scenes/Village3B.unity
+    guid: ec76031afa8fb4bacaa959b2558d9eb7
   m_configObjects: {}
