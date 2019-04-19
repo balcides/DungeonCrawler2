@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 using UnityEngine;
 
 namespace RPG.Saving
@@ -10,7 +11,12 @@ namespace RPG.Saving
     {
         public void Save(string saveFile)
         {
-            print("Saving to " + GetPathFromSaveFile(saveFile));
+            string path = GetPathFromSaveFile(saveFile);
+            print("Saving to " + path);
+            FileStream stream = File.Open(path, FileMode.Create);
+            byte[] bytes = Encoding.UTF8.GetBytes("!Hola Mundo!");
+            stream.Write(bytes, 0, bytes.Length);
+            stream.Close();
         }
 
         public void Load(string saveFile)
