@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using UnityEngine;
 
@@ -15,15 +16,17 @@ namespace RPG.Saving
             string path = GetPathFromSaveFile(saveFile);
             print("Saving to " + path);
 
-            //using makes it easier so we don't need to add stream.Close() when done for memory h
+            //'using' statement makes it easier so we don't need to add stream.Close() when done for memory h
             using (FileStream stream = File.Open(path, FileMode.Create)){
 
                 //good example of format data for save/serializing
                 //byte[] bytes = Encoding.UTF8.GetBytes("!Hola Mundo!");
-
+  
+                //Serializing takes our data and turns it into binary automatically
                 Transform playerTransform = GetPlayerTransform();
-                byte[] buffer = SerializeVector(playerTransform.position);
-                stream.Write(buffer, 0, buffer.Length);
+                BinaryFormatter formatter = new BinaryFormatter();
+                SerializableVector3 position = new SerializableVector3(playerTransform.position);
+                formatter.Serialize(stream, position);
             }
         }
 
@@ -39,11 +42,10 @@ namespace RPG.Saving
 
             using (FileStream stream = File.Open(path, FileMode.Open))
             {
-                byte[] buffer = new byte[stream.Length];
-                stream.Read(buffer, 0, buffer.Length);
-
                 Transform playerTransform = GetPlayerTransform();
-                playerTransform.position = DeserializeVector(buffer);
+                BinaryFormatter formatter = new BinaryFormatter();
+                SerializableVector3 position = (SerializableVector3)formatter.Deserialize(stream); //(SerializableVector3) is a cast which converts to type
+                playerTransform.position = position.ToVector();
             }
         }
 
