@@ -67,7 +67,7 @@ PrefabInstance:
     - target: {fileID: 4820046052469895562, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
       propertyPath: m_Name
-      value: Player1
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4820046052469895562, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
@@ -129,11 +129,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5138767123043706418, guid: 644e46de455084a7ca5627ea2ba4bd28,
-        type: 3}
-      propertyPath: healthPoints
-      value: 200
-      objectReference: {fileID: 0}
     - target: {fileID: 3809891453755650845, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
       propertyPath: weaponRange
@@ -153,6 +148,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Center.y
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138767123043706418, guid: 644e46de455084a7ca5627ea2ba4bd28,
+        type: 3}
+      propertyPath: healthPoints
+      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 644e46de455084a7ca5627ea2ba4bd28, type: 3}
