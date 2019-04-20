@@ -1,4 +1,3 @@
-using UnityEditor;
 using UnityEngine;
 
 namespace RPG.Saving
@@ -25,16 +24,7 @@ namespace RPG.Saving
 
         private void Update() {
             if(Application.IsPlaying(gameObject)) return;
-            if(string.IsNullOrEmpty(gameObject.scene.path)) return;
-
-            SerializedObject serializedObject = new SerializedObject(this);
-            SerializedProperty property = serializedObject.FindProperty("uniqueIdentifier");    //needs to be done this way to work with Unity's framework
-
-            if(property.stringValue == ""){
-
-                property.stringValue = System.Guid.NewGuid().ToString();
-                serializedObject.ApplyModifiedProperties(); //tell Unity you've made that change if the value is empty for making a UUID
-            }
+            print("Editing");
         }
     }
 }

@@ -147,16 +147,6 @@ PrefabInstance:
       propertyPath: m_Speed
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 5143210825677466130, guid: 644e46de455084a7ca5627ea2ba4bd28,
-        type: 3}
-      propertyPath: uniqueIdentifier
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 5138767123043706418, guid: 644e46de455084a7ca5627ea2ba4bd28,
-        type: 3}
-      propertyPath: healthPoints
-      value: 40
-      objectReference: {fileID: 0}
     - target: {fileID: 3809891453755650845, guid: 644e46de455084a7ca5627ea2ba4bd28,
         type: 3}
       propertyPath: weaponDamage
@@ -166,6 +156,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Center.y
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138767123043706418, guid: 644e46de455084a7ca5627ea2ba4bd28,
+        type: 3}
+      propertyPath: healthPoints
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8860560957062790733, guid: 644e46de455084a7ca5627ea2ba4bd28, type: 3}

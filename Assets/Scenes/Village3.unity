@@ -763,11 +763,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3896322332038500218, guid: ac4f75265130040579c363a3444e7dcc,
-        type: 3}
-      propertyPath: uniqueIdentifier
-      value: 89eed5f5-79b9-48c7-921d-5a80c933cc71
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac4f75265130040579c363a3444e7dcc, type: 3}
 --- !u!1001 &229107123
@@ -1721,11 +1716,6 @@ PrefabInstance:
         type: 3}
       propertyPath: healthPoints
       value: 80
-      objectReference: {fileID: 0}
-    - target: {fileID: 3896322332038500218, guid: ac4f75265130040579c363a3444e7dcc,
-        type: 3}
-      propertyPath: uniqueIdentifier
-      value: f9b98369-1313-4d5c-81cb-ce86d9645d1c
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac4f75265130040579c363a3444e7dcc, type: 3}
@@ -5451,11 +5441,6 @@ PrefabInstance:
       propertyPath: patrolPath
       value: 
       objectReference: {fileID: 1955800132}
-    - target: {fileID: 3896322332038500218, guid: ac4f75265130040579c363a3444e7dcc,
-        type: 3}
-      propertyPath: uniqueIdentifier
-      value: cf65b456-6227-4871-afc3-563a732a6e22
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac4f75265130040579c363a3444e7dcc, type: 3}
 --- !u!1001 &1489169511
@@ -5530,11 +5515,6 @@ PrefabInstance:
       propertyPath: patrolPath
       value: 
       objectReference: {fileID: 1315924278}
-    - target: {fileID: 3896322332038500218, guid: ac4f75265130040579c363a3444e7dcc,
-        type: 3}
-      propertyPath: uniqueIdentifier
-      value: 89d3fddf-34e2-471f-a0d7-8713f3ecb094
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac4f75265130040579c363a3444e7dcc, type: 3}
 --- !u!1001 &1507212215
@@ -7439,11 +7419,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -34.635326
-      objectReference: {fileID: 0}
-    - target: {fileID: 479684036528049992, guid: db597c2eec74c4824b559243e8576960,
-        type: 3}
-      propertyPath: uniqueIdentifier
-      value: b8dda528-11da-4f8f-989a-a228ef291fc0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db597c2eec74c4824b559243e8576960, type: 3}
