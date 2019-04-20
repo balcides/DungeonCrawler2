@@ -1,4 +1,5 @@
 ﻿
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -16,14 +17,23 @@ namespace RPG.Saving
 
             //using makes it easier so we don't need to add stream.Close() when done for memory h
             using (FileStream stream = File.Open(path, FileMode.Create)){
-                byte[] bytes = Encoding.UTF8.GetBytes("!Hola Mundo!");
-                stream.Write(bytes, 0, bytes.Length);
+
+                //good example of format data for save/serializing
+                //byte[] bytes = Encoding.UTF8.GetBytes("!Hola Mundo!");
+
+                Transform playerTransform = GetPlayerTransform();
+                byte[] buffer = SerializeVector(playerTransform.position);
+                stream.Write(buffer, 0, buffer.Length);
             }
+        }
+
+        private Transform GetPlayerTransform()
+        {
+            return GameObject.FindWithTag("Player").transform;
         }
 
         public void Load(string saveFile)
         {
-
             string path = GetPathFromSaveFile(saveFile);
             print("Loading from " + path);
 
@@ -31,8 +41,29 @@ namespace RPG.Saving
             {
                 byte[] buffer = new byte[stream.Length];
                 stream.Read(buffer, 0, buffer.Length);
-                print(Encoding.UTF8.GetString(buffer));
+
+                Transform playerTransform = GetPlayerTransform();
+                playerTransform.position = DeserializeVector(buffer);
             }
+        }
+
+        private byte[] SerializeVector(Vector3 vector){
+
+            // 3 * 4 refers to three channels times 4 bytes per info to store
+            byte[] vectorBytes = new byte[3 * 4];
+            BitConverter.GetBytes(vector.x).CopyTo(vectorBytes, 0);
+            BitConverter.GetBytes(vector.y).CopyTo(vectorBytes, 4);
+            BitConverter.GetBytes(vector.z).CopyTo(vectorBytes, 8);
+            return vectorBytes;
+        }
+
+        private Vector3 DeserializeVector(byte[] buffer){
+
+            Vector3 result = new Vector3();
+            result.x = BitConverter.ToSingle(buffer, 0);
+            result.y = BitConverter.ToSingle(buffer, 4);
+            result.z = BitConverter.ToSingle(buffer, 8);
+            return result;
         }
 
         private string GetPathFromSaveFile(string saveFile){
