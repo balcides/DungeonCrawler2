@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}</ProjectGuid>
+    <ProjectGuid>{1FF4D8E8-0BD6-1ECE-AB94-A203B73B9DC0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -77,25 +77,25 @@
      <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
      <None Include="Assets\Asset Packs\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
  <Reference Include="Cinemachine">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.cinemachine.editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2018.3.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -302,13 +302,13 @@
  <HintPath>/Applications/Unity/Hub/Editor/2018.3.12f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/Applications/Unity/Hub/Editor/2018.3.12f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
