@@ -1,7 +1,6 @@
 using UnityEngine;
 using RPG.Movement;
 using RPG.Core;
-using RPG.Combat;
 
 namespace RPG.Combat
 {
@@ -14,43 +13,34 @@ namespace RPG.Combat
         Health target;
         float timeSinceLastAttack = Mathf.Infinity;
 
-
         private void Update()
         {
             timeSinceLastAttack += Time.deltaTime;
 
-            //returns early, doesn't keep going if eval proves null
-            if(target == null) return; 
-            if(target.IsDead()) return; 
+            if (target == null) return;
+            if (target.IsDead()) return;
 
             if (!GetIsInRange())
             {
-                //TODO: Refactor 1f to global var
                 GetComponent<Mover>().MoveTo(target.transform.position, 1f);
             }
             else
             {
                 GetComponent<Mover>().Cancel();
-                AttackBehavior();
+                AttackBehaviour();
             }
         }
 
-
-        private void AttackBehavior()
-        /*
-            Testing comment
-        */ 
+        private void AttackBehaviour()
         {
             transform.LookAt(target.transform);
-
-            if(timeSinceLastAttack > timeBetweenAttacks)
+            if (timeSinceLastAttack > timeBetweenAttacks)
             {
-                //this will trigger event Hit()
+                // This will trigger the Hit() event.
                 TriggerAttack();
                 timeSinceLastAttack = 0;
             }
         }
-
 
         private void TriggerAttack()
         {
@@ -58,36 +48,30 @@ namespace RPG.Combat
             GetComponent<Animator>().SetTrigger("attack");
         }
 
-
+        // Animation Event
         void Hit()
-        /*
-            Animation Event
-         */
         {
-            if(target == null) return;
+            if(target == null) { return; }
             target.TakeDamage(weaponDamage);
         }
-
 
         private bool GetIsInRange()
         {
             return Vector3.Distance(transform.position, target.transform.position) < weaponRange;
         }
 
-
-        public void Attack(GameObject combatTarget){
-            GetComponent<ActionScheduler>().StartAction(this);
-            target = combatTarget.GetComponent<Health>();
-
-        }
-
-
-        public bool CanAttack(GameObject combatTarget){
-            if(combatTarget == null){ return false;}
+        public bool CanAttack(GameObject combatTarget)
+        {
+            if (combatTarget == null) { return false; }
             Health targetToTest = combatTarget.GetComponent<Health>();
             return targetToTest != null && !targetToTest.IsDead();
         }
 
+        public void Attack(GameObject combatTarget)
+        {
+            GetComponent<ActionScheduler>().StartAction(this);
+            target = combatTarget.GetComponent<Health>();
+        }
 
         public void Cancel()
         {

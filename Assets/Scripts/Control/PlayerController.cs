@@ -1,7 +1,7 @@
 using System;
-using RPG.Movement;
 using RPG.Combat;
 using RPG.Core;
+using RPG.Movement;
 using UnityEngine;
 
 namespace RPG.Control
@@ -10,43 +10,39 @@ namespace RPG.Control
     {
         Health health;
 
-        void Start()
-        {
+        private void Start() {
             health = GetComponent<Health>();
         }
 
-        void Update(){
+        private void Update()
+        {
             if (health.IsDead()) return;
-            if(InteractWithCombat()) return; //on fail, skips anything after on update
-            if(InteractWithMovement()) return;
+
+            if (InteractWithCombat()) return;
+            if (InteractWithMovement()) return;
         }
 
-        private bool InteractWithCombat(){
+        private bool InteractWithCombat()
+        {
             RaycastHit[] hits = Physics.RaycastAll(GetMouseRay());
-            foreach (RaycastHit hit in hits){
-
+            foreach (RaycastHit hit in hits)
+            {
                 CombatTarget target = hit.transform.GetComponent<CombatTarget>();
-                if(target == null) continue;
+                if (target == null) continue;
 
-                if(!GetComponent<Fighter>().CanAttack(target.gameObject)){
-                    continue; //keep going in for loop, go to the next thing
+                if (!GetComponent<Fighter>().CanAttack(target.gameObject))
+                {
+                    continue;
                 }
 
-                if(Input.GetMouseButton(0)){
-                    
-                    //TODO: Cleanup later, not sure if this bug gets addressed
-                    GameObject player = GameObject.FindWithTag("Player");
-                    if(target.gameObject.tag != "Player"){ 
-                        GetComponent<Fighter>().Attack(target.gameObject); 
-                    }
-
-
+                if (Input.GetMouseButton(0))
+                {
+                    GetComponent<Fighter>().Attack(target.gameObject);
                 }
                 return true;
             }
             return false;
         }
-
 
         private bool InteractWithMovement()
         {
@@ -54,8 +50,8 @@ namespace RPG.Control
             bool hasHit = Physics.Raycast(GetMouseRay(), out hit);
             if (hasHit)
             {
-                if(Input.GetMouseButton(0)){
-                    //TODO: Refactor 1f when ready
+                if (Input.GetMouseButton(0))
+                {
                     GetComponent<Mover>().StartMoveAction(hit.point, 1f);
                 }
                 return true;

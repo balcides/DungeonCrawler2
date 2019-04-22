@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1FF4D8E8-0BD6-1ECE-AB94-A203B73B9DC0}</ProjectGuid>
+    <ProjectGuid>{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,67 +53,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\AxisState.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CameraState.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachineCore.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\GaussianFilter.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\LensSettings.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\NoiseSettings.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\Predictor.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\SplineHelpers.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\PostFX\CinemachinePostFX.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\PostFX\CinemachinePostProcessing.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Timeline\CinemachineMixer.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Timeline\CinemachineShot.cs" />
-     <Compile Include="Assets\Asset Packs\Cinemachine\Timeline\CinemachineTrack.cs" />
-     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\Displace.cs" />
-     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\GerstnerDisplace.cs" />
-     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\MeshContainer.cs" />
-     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\PlanarReflection.cs" />
-     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\SpecularLighting.cs" />
-     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\Water.cs" />
-     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\WaterBase.cs" />
-     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\WaterTile.cs" />
      <Compile Include="Assets\Scripts\Cinematics\CinematicControlRemover.cs" />
      <Compile Include="Assets\Scripts\Cinematics\CinematicTrigger.cs" />
      <Compile Include="Assets\Scripts\Combat\CombatTarget.cs" />
@@ -125,71 +64,38 @@
      <Compile Include="Assets\Scripts\Core\FollowCamera.cs" />
      <Compile Include="Assets\Scripts\Core\Health.cs" />
      <Compile Include="Assets\Scripts\Core\IAction.cs" />
-     <Compile Include="Assets\Scripts\Core\PersistentObjectSpawner.cs" />
+     <Compile Include="Assets\Scripts\Core\PeristentObjectSpawner.cs" />
      <Compile Include="Assets\Scripts\Movement\Mover.cs" />
+     <Compile Include="Assets\Scripts\Saving\ISaveable.cs" />
      <Compile Include="Assets\Scripts\Saving\SaveableEntity.cs" />
      <Compile Include="Assets\Scripts\Saving\SavingSystem.cs" />
-     <Compile Include="Assets\Scripts\Saving\SavingWrapper.cs" />
      <Compile Include="Assets\Scripts\Saving\SerializableVector3.cs" />
      <Compile Include="Assets\Scripts\SceneManagement\Fader.cs" />
      <Compile Include="Assets\Scripts\SceneManagement\Portal.cs" />
-     <Compile Include="Assets\Tools\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
-     <Compile Include="Assets\Tools\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
-     <Compile Include="Assets\Tools\ProBuilder\API Examples\Misc\HueCube.cs" />
-     <Compile Include="Assets\Tools\ProBuilder\API Examples\Procedural Mesh\ExtrudeRandomEdges.cs" />
-     <Compile Include="Assets\Tools\ProBuilder\API Examples\Runtime Editing\RuntimeEdit.cs" />
-     <Compile Include="Assets\Tools\ProBuilder\API Examples\Vertex Colors\HighlightNearestFace.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProGrids\Classes\pg_Constant.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProGrids\Classes\pg_Enum.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProGrids\Classes\pg_IconUtility.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProGrids\Classes\pg_IgnoreSnapAttribute.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProGrids\Classes\pg_SceneMeshRender.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProGrids\Classes\pg_Util.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProGrids\MonoBehaviour\pg_IgnoreSnap.cs" />
-     <None Include="Assets\Tools\ProCore\ProGrids\Shader\pg_GridShader.shader" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_TransparentOverlay.shader" />
-     <None Include="Assets\Tools\ProBuilder\API Examples\Icosphere FFT\README.txt" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_SelectionPicker.shader" />
-     <None Include="Assets\Tools\ProBuilder\About\changelog.txt" />
-     <None Include="Assets\Tools\ProBuilder\Shader\DiffuseVertexColor.shader" />
-     <None Include="Assets\Asset Packs\AP_Animations\README - Usage Rights for these assets 1.txt" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_FaceHighlight.shader" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_UnlitSolidColor.shader" />
-     <None Include="Assets\Tools\ProCore\ProGrids\About\pc_AboutEntry_ProGrids.txt" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_ReferenceUnlit.shader" />
-     <None Include="Assets\Tools\ProBuilder\Shader\DiffuseTextureBlend.shader" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_StandardVertexColor.shader" />
+     <Compile Include="Assets\Scripts\SceneManagement\SavingWrapper.cs" />
+     <None Include="Assets\Asset Packs\Animations by Explosive\README - Usage Rights for these assets 1.txt" />
      <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_VertexPicker.shader" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_HideVertices.shader" />
-     <None Include="Assets\Asset Packs\Cinemachine\ReleaseNotes.txt" />
-     <None Include="Assets\Tools\ProBuilder\About\ThirdPartyLicenses.txt" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_UnlitVertexColor.shader" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_FacePicker.shader" />
-     <None Include="Assets\Tools\ProBuilder\About\Font\SIL Open Font License.txt" />
-     <None Include="Assets\Tools\ProBuilder\About\pc_AboutEntry_ProBuilder.txt" />
-     <None Include="Assets\Prefabs\Environment\Water\Shaders\FXWaterPro.shader" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_VertexShader.shader" />
-     <None Include="Assets\Tools\ProCore\ProGrids\About\changelog.txt" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_NormalPreview.shader" />
      <None Include="Assets\Asset Packs\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_ScrollHighlight.shader" />
-     <None Include="Assets\Tools\ProBuilder\readme.txt" />
-     <None Include="Assets\Tools\ProBuilder\Shader\pb_SmoothingPreview.shader" />
+ <Reference Include="Cinemachine">
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2018.3.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -395,29 +301,14 @@
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>/Applications/Unity/Hub/Editor/2018.3.12f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
- <Reference Include="ProBuilderCore-Unity5">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="KdTreeLib">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
- </Reference>
- <Reference Include="pb_Stl">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
- </Reference>
- <Reference Include="Poly2Tri">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
- </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>/Volumes/MonarchGameDrive/Monarch/DungeonCrawlerUDEMY/RPG/RPG Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/Applications/Unity/Hub/Editor/2018.3.12f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
