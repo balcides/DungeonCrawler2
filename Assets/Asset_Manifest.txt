@@ -1,3 +1,7 @@
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Animation/Character.controller
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Animation/Character.controller.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Animation/Intro Sequence Timeline.playable
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Animation/Intro Sequence Timeline.playable.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC.meta
@@ -310,50 +314,33 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Textures/Trees.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Textures/Trees/Pine.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Village/Materials.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Cinematics.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Character.controller
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Character.controller.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Character.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Character.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Enemy.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Enemy.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Patrol Path.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Patrol Path.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Player.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Player.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Cinematics/Intro Sequence Timeline.playable
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Cinematics/Intro Sequence Timeline.playable.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Camera.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Camera.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Core2.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Core2.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Fader.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Fader.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Follow Camera.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Follow Camera.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/PersistentObjects.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/PersistentObjects.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Portal.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Portal.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/SavingSystem.prefab
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/SavingSystem.prefab.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine/cm_logo_lg.png
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine/cm_logo_lg.png.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Materials/.DS_Store
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Cinematics.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Combat.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Saving.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/SceneManagement.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Water.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons/Projectile.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons/Projectile/RollerBall.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Character.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Character.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Enemy.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Enemy.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Patrol Path.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Patrol Path.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Player.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Player.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Camera.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Camera.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Core2.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Core2.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Fader.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Fader.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Follow Camera.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Follow Camera.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/PersistentObjects.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/PersistentObjects.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Portal.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Portal.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/SavingSystem.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/SavingSystem.prefab.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.unity
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.unity.meta
