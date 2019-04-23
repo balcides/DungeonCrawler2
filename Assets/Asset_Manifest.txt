@@ -738,6 +738,14 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01.png.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01_Vikings.png
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01_Vikings.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 1.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 1.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 2.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 2.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 3.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 3.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Brown Dirt.BMP
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Brown Dirt.BMP.meta
@@ -772,8 +780,6 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/RedTexture.jpg.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/YellowTexture.jpg
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/YellowTexture.jpg.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/Materials/BrownTexture.mat
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/Materials/BrownTexture.mat.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/Materials/RedTexture.mat
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/Materials/RedTexture.mat.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Block.prefab
@@ -1054,8 +1060,6 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Env_Scene1Village.prefab.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Medieval_Windmill.prefab
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Medieval_Windmill.prefab.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/NewLayer.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/NewLayer.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Scene1Village.prefab
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Scene1Village.prefab.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Terrain2.prefab
@@ -1108,20 +1112,14 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Water/Textures/WaterProNighttimeGradient.psd
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Water/Textures/WaterProNighttimeGradient.psd.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons/Projectile.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/NewLayer 1.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/NewLayer 1.terrainlayer.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/NewLayer 2.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/NewLayer 2.terrainlayer.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/NewLayer 3.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/NewLayer 3.terrainlayer.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/NewLayer.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/NewLayer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/.DS_Store
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.unity
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.unity.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox.unity
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Village1.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Village1.unity
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Village1.unity.meta
@@ -1156,6 +1154,8 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_light.exr.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_shadowmask.png
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_shadowmask.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_shadowmask.png.meta~design
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_shadowmask.png.meta~design.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_dir.png
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_dir.png.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/NavMesh.asset
@@ -1164,6 +1164,14 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/ReflectionProbe-0.exr.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Sandbox 2 Terrain.asset
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Sandbox 2 Terrain.asset.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Dirt layer.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Dirt layer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Green Grass.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Green Grass.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light dirt layer.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light dirt layer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light green grass layer.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light green grass layer.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Village1/LightingData.asset
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Village1/LightingData.asset.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Village1/Lightmap-0_comp_dir.png
