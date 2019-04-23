@@ -738,14 +738,12 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01.png.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01_Vikings.png
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01_Vikings.png.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 1.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 1.terrainlayer.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 2.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 2.terrainlayer.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 3.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer 3.terrainlayer.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/NewLayer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Blue.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Blue.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Dark Blue.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Dark Blue.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Red.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Red.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Brown Dirt.BMP
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Brown Dirt.BMP.meta
@@ -763,15 +761,17 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Green Grass.BMP.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Light Green Grass.BMP
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Light Green Grass.BMP.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Yellow.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Yellow.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/BlueTexture.jpg
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/BlueTexture.jpg.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/DarkBlueTexture.jpg
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/DarkBlueTexture.jpg.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/Dirt.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/Dirt.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/Materials.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 1.terrainlayer
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 1.terrainlayer.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 2.terrainlayer
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 2.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 3.terrainlayer
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 3.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer.terrainlayer
