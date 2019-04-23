@@ -344,7 +344,12 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine/cm_logo_lg.png.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Materials/.DS_Store
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Cinematics.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Combat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Saving.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/SceneManagement.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Water.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons/Projectile.meta
