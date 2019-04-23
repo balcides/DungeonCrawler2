@@ -3,7 +3,7 @@ using UnityEditor;
 using System.IO;
 using System.Collections.Generic;
 
-namespace RPG.Utility
+namespace RPG.Utilities
 {
     public class Manifest : MonoBehaviour
     {

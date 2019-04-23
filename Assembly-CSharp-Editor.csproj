@@ -53,7 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Utility\Editor\Manifest.cs" />
+     <Compile Include="Assets\Scripts\Utilities\Editor\Manifest.cs" />
      <Compile Include="Assets\Tools\ProBuilder\About\Editor\pb_AboutWindow.cs" />
      <Compile Include="Assets\Tools\ProBuilder\About\Editor\pb_UpdateAvailable.cs" />
      <Compile Include="Assets\Tools\ProBuilder\About\Editor\pb_UpdateCheck.cs" />
