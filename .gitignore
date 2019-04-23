@@ -17,6 +17,9 @@ Assets/ProCore/
 Assets/SimpleParticlePack/
 Assets/Ground textures pack/
 Assets/L_FG_Assets_Pack_Lite/
+Assets/Asset Packs/
+Assets/Tools/
+Assets/ZIPS/
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -50,3 +53,4 @@ Thumbs.db
 *.caf
 *.png
 *.pdf
+*.exr
