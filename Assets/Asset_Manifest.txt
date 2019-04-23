@@ -402,6 +402,7 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light dirt layer.terrainlayer.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light green grass layer.terrainlayer
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light green grass layer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/.DS_Store
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Combat.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Control.meta
@@ -409,7 +410,7 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Movement.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utility.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utilities.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics/CinematicControlRemover.cs
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics/CinematicControlRemover.cs.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics/CinematicTrigger.cs
@@ -450,9 +451,9 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/Portal.cs.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/SavingWrapper.cs
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/SavingWrapper.cs.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utility/Editor.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utility/Editor/Manifest.cs
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utility/Editor/Manifest.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utilities/Editor.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utilities/Editor/Manifest.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utilities/Editor/Manifest.cs.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples.meta

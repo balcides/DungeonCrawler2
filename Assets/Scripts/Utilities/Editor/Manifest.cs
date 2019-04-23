@@ -11,7 +11,7 @@ namespace RPG.Utilities
         static string DirSave = "/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/";
         static string SaveFileName = "Asset_Manifest.txt";
 
-        [MenuItem("Tools/Print Assets Manifest")]
+        [MenuItem("Monarch/Print Assets Manifest")]
         private static void GetAllFiles(){
 
             print("Running Manifest Print...");
@@ -23,7 +23,7 @@ namespace RPG.Utilities
             }
         }
 
-        [MenuItem("Tools/Save Assets Manifest")]
+        [MenuItem("Monarch/Save Assets Manifest")]
         private static void SaveManifest(){
 
             List<string> testList = new List<string>();
