@@ -317,8 +317,11 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine/cm_logo_lg.png
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine/cm_logo_lg.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/.DS_Store
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Character.prefab
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Character.prefab.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters/Enemy.prefab
@@ -341,6 +344,7 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/Portal.prefab.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/SavingSystem.prefab
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Core/SavingSystem.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons/Projectile.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.unity
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.unity.meta
@@ -376,10 +380,10 @@
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_dir.png.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_light.exr
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_light.exr.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_shadowmask.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_shadowmask.png.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_dir.png
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_dir.png.meta
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_light.exr
-/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_light.exr.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/NavMesh.asset
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/NavMesh.asset.meta
 /Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/ReflectionProbe-0.exr
