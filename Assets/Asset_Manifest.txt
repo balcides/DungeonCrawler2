@@ -1,0 +1,1322 @@
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations/Unarmed.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations/Unarmed/HumanoidIdle.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations/Unarmed/HumanoidIdle.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations/Unarmed/HumanoidRun.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations/Unarmed/HumanoidRun.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations/Unarmed/HumanoidWalk.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations/Unarmed/HumanoidWalk.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Bow.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Club.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Spear.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Sword.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Armed.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Item.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/README - Usage Rights for these assets 1.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/README - Usage Rights for these assets 1.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Sword.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Unarmed.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Bow/RPG-Character@2Hand-Bow-Attack1.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Bow/RPG-Character@2Hand-Bow-Attack1.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Club/RPG-Character@2Hand-Club-Attack8.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Club/RPG-Character@2Hand-Club-Attack8.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Spear/RPG-Character@2Hand-Spear-Attack2.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Spear/RPG-Character@2Hand-Spear-Attack2.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Spear/RPG-Character@2Hand-Spear-Attack3.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Spear/RPG-Character@2Hand-Spear-Attack3.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Sword/RPG-Character@2Hand-Sword-Attack5.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/2Hand-Sword/RPG-Character@2Hand-Sword-Attack5.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Armed/RPG-Character@Armed-Death1.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Armed/RPG-Character@Armed-Death1.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Item/RPG-Character@Item-Attack-L2.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Item/RPG-Character@Item-Attack-L2.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Sword/RPG-Character@Sword-Attack-R6.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Sword/RPG-Character@Sword-Attack-R6.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Unarmed/RPG-Character@Unarmed-Attack-L2.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Unarmed/RPG-Character@Unarmed-Attack-L2.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Unarmed/RPG-Character@Unarmed-Attack-L3.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Animations by Explosive/Unarmed/RPG-Character@Unarmed-Attack-L3.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Demo.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Shaders.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Textures.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo.unity
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - FirTree.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - FirTree.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - FirTreeVariation.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - FirTreeVariation.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - Grass.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - Grass.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - Rock.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - Rock.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - Terrain.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - Terrain.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - TreeTrunk.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - TreeTrunk.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - Wood.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/LowPoly - Wood.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/Skybox Cubemap Extended.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Materials/Skybox Cubemap Extended.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Fence A.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Fence A.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Fence B.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Fence B.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - FirTree A.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - FirTree A.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - FirTree B.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - FirTree B.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Grass A.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Grass A.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Grass B.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Grass B.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Rock A.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Rock A.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Rock B.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Rock B.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Terrain.FBX
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Meshes/LowPoly - Terrain.FBX.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Fence A.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Fence A.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Fence B.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Fence B.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - FirTree A.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - FirTree A.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - FirTree B.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - FirTree B.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Grass A.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Grass A.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Grass B.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Grass B.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Rock A.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Rock A.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Rock B.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Prefabs/LowPoly - Rock B.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Shaders/Skybox Cubemap Extended.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Shaders/Skybox Cubemap Extended.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Textures/Polyverse Skies - Blue Sky.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/BOXOPHOBIC/Skybox Cubemap Extended/Textures/Polyverse Skies - Blue Sky.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Demo Scene.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/README - Usage Rights for these assets.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/README - Usage Rights for these assets.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Demo Scene/Demo.unity
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Demo Scene/Demo.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Black.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Black.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Blue.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Blue.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Orange.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Orange.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Red.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Characters_Texture_Red.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureMaterial_01.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureMaterial_01.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureMaterial_Water_01.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureMaterial_Water_01.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureTexture_01.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureTexture_01.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyKnights_Character_Mat_Black.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyKnights_Character_Mat_Black.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyKnights_Character_Mat_Orange.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyKnights_Character_Mat_Orange.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyKnights_Mat_01.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyKnights_Mat_01.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyVikings_Fire_FX.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyVikings_Fire_FX.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyVikings_Material_01.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyVikings_Material_01.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolygonSamurai_Mat_01.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolygonSamurai_Mat_01.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolygonSamurai_Tex_01.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolygonSamurai_Tex_01.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Texture_01.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Texture_01.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Texture_01_Vikings.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Materials/Texture_01_Vikings.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/Characters_POLYGON_Knights.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/Characters_POLYGON_Knights.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_Fence_02.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_Fence_02.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_House_Base_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_House_Base_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_House_Door_02.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_House_Door_02.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_House_Roof_Wood_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_House_Roof_Wood_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_Hut_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_Hut_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_Village_02.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Bld_Village_02.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Bush_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Bush_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_FloorTile_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_FloorTile_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_FloorTile_05.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_FloorTile_05.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Flower_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Flower_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Grass_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Grass_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Grass_Large_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Grass_Large_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_GroundMound_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_GroundMound_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_GroundMounds_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_GroundMounds_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Hill_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Hill_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Rock_015.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Rock_015.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Tile_Grass_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Tile_Grass_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_TreeLog_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_TreeLog_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Tree_010.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Tree_010.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Tree_03.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Env_Tree_03.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Prop_Crate_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Prop_Crate_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Prop_Pumpkin_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Prop_Pumpkin_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Wep_Rapier_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Wep_Rapier_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Wep_Sword_01.fbx
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Models/SM_Wep_Sword_01.fbx.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/Character_Knights_Soldier_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/Character_Knights_Soldier_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/Character_Knights_Soldier_02.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/Character_Knights_Soldier_02.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/FX_Fire.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/FX_Fire.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_Fence_02.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_Fence_02.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_House_Base_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_House_Base_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_House_Door_02.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_House_Door_02.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_House_Roof_Wood_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_House_Roof_Wood_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_Hut_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_Hut_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_Village_02.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Bld_Village_02.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Bush_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Bush_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_FloorTile_05.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_FloorTile_05.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Flower_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Flower_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Grass_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Grass_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Grass_Large_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Grass_Large_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_GroundMound_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_GroundMound_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_GroundMounds_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_GroundMounds_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Hill_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Hill_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Rock_015.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Rock_015.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Tile_Grass_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Tile_Grass_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_TreeLog_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_TreeLog_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Tree_010.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Tree_010.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Tree_03.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Tree_03.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Water.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Env_Water.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Prop_Crate_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Prop_Crate_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Prop_Pumpkin_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Prop_Pumpkin_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Wep_Rapier_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Wep_Rapier_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Wep_Sword_01.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Prefabs/SM_Wep_Sword_01.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Black.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Black.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Blue.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Blue.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Orange.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Orange.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Red.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Characters_Texture_Red.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/PolyAdventureTexture_01.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/PolyAdventureTexture_01.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/PolygonSamurai_Tex_01.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/PolygonSamurai_Tex_01.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01_Vikings.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Synty - Polygon Student Sample/Textures/Texture_01_Vikings.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Brown Dirt.BMP
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Brown Dirt.BMP.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Brown Mud.BMP
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Brown Mud.BMP.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Cliff.jpg
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Cliff.jpg.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Cobblestone Floor Dark.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Cobblestone Floor Dark.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Cobblestone Floor.jpg
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Cobblestone Floor.jpg.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Cracked Soil.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Cracked Soil.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Green Grass.BMP
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Green Grass.BMP.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Light Green Grass.BMP
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/TT_Light Green Grass.BMP.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/BlueTexture.jpg
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/BlueTexture.jpg.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/DarkBlueTexture.jpg
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/DarkBlueTexture.jpg.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 1.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 1.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 2.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 2.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 3.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer 3.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/NewLayer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/RedTexture.jpg
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/RedTexture.jpg.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/YellowTexture.jpg
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/Terrain Textures/Simple Textures/YellowTexture.jpg.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Castle.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Foliage.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Textures.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Village.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Textures/Thatch.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Textures/Trees.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Textures/Trees/Pine.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Asset Packs/World Objects/Village/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Cinematics.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Character.controller
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Character.controller.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Character.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Character.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Enemy.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Enemy.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Patrol Path.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Patrol Path.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Player.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Characters/Player.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Cinematics/Intro Sequence Timeline.playable
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Cinematics/Intro Sequence Timeline.playable.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Camera.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Camera.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Core2.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Core2.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Fader.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Fader.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Follow Camera.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Follow Camera.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/PersistentObjects.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/PersistentObjects.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Portal.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/Portal.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/SavingSystem.prefab
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Game/Core/SavingSystem.prefab.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine/cm_logo_lg.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Gizmos/Cinemachine/cm_logo_lg.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Materials/.DS_Store
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Characters.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Environment/Water.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons/Projectile.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Prefabs/Weapons/Projectile/RollerBall.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.unity
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox.unity
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/.DS_Store
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/LightingData.asset
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/LightingData.asset.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Lightmap-0_comp_dir.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Lightmap-0_comp_dir.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Lightmap-0_comp_light.exr
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Lightmap-0_comp_light.exr.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Lightmap-0_comp_shadowmask.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Lightmap-0_comp_shadowmask.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Moment sketch.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Moment sketch.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Moment sketch.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Moment sketch.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/NavMesh.asset
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/NavMesh.asset.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/ReflectionProbe-0.exr
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/ReflectionProbe-0.exr.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Sandbox Terrain.asset
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Sandbox Terrain.asset.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Materials/Moment sketch.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox/Materials/Moment sketch.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/LightingData.asset
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/LightingData.asset.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_dir.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_dir.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_light.exr
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-0_comp_light.exr.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_dir.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_dir.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_light.exr
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Lightmap-1_comp_light.exr.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/NavMesh.asset
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/NavMesh.asset.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/ReflectionProbe-0.exr
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/ReflectionProbe-0.exr.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Sandbox 2 Terrain.asset
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Sandbox 2/Sandbox 2 Terrain.asset.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Dirt layer.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Dirt layer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Green Grass.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Green Grass.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light dirt layer.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light dirt layer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light green grass layer.terrainlayer
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scenes/Shared/Light green grass layer.terrainlayer.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Combat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Control.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Movement.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utility.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics/CinematicControlRemover.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics/CinematicControlRemover.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics/CinematicTrigger.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Cinematics/CinematicTrigger.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Combat/CombatTarget.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Combat/CombatTarget.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Combat/Fighter.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Combat/Fighter.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Control/AIController.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Control/AIController.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Control/PatrolPath.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Control/PatrolPath.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Control/PlayerController.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Control/PlayerController.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/ActionScheduler.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/ActionScheduler.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/FollowCamera.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/FollowCamera.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/Health.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/Health.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/IAction.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/IAction.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/PeristentObjectSpawner.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Core/PeristentObjectSpawner.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Movement/Mover.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Movement/Mover.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving/ISaveable.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving/ISaveable.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving/SaveableEntity.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving/SaveableEntity.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving/SavingSystem.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving/SavingSystem.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving/SerializableVector3.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Saving/SerializableVector3.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/Fader.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/Fader.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/Portal.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/Portal.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/SavingWrapper.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/SceneManagement/SavingWrapper.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utility/Editor.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utility/Editor/Manifest.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Scripts/Utility/Editor/Manifest.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Data.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/ProBuilderManual.pdf
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/ProBuilderManual.pdf.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/readme.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/readme.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Misc.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Procedural Mesh.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Vertex Colors.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/ClearUnusedAttributes.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/ClearUnusedAttributes.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/CreateShadowObject.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/CreateShadowObject.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/CustomAction.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/CustomAction.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/EditorCallbackViewer.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/EditorCallbackViewer.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/RenameNewObjects.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/RenameNewObjects.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/SetCustomUnwrapParams.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Editor/SetCustomUnwrapParams.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Audio Visualizer.unity
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Audio Visualizer.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Material.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/README.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/README.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Scripts.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Material/Ico.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Material/Ico.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Material/ProBuilderIcon.tga
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Material/ProBuilderIcon.tga.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Scripts/CameraControls.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Scripts/CameraControls.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Scripts/IcoBumpin.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Scripts/IcoBumpin.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_back.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_back.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_down.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_down.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_front.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_front.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_left.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_left.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_right.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_right.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_up.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Icosphere FFT/Skybox/Space_up.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Misc/HueCube.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Misc/HueCube.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Procedural Mesh/Extrude Random Edges.unity
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Procedural Mesh/Extrude Random Edges.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Procedural Mesh/ExtrudeRandomEdges.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Procedural Mesh/ExtrudeRandomEdges.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/RuntimeEdit.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/RuntimeEdit.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/RuntimeEdit.unity
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/RuntimeEdit.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/backdrop.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/backdrop.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/backdrop.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/backdrop.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/instructions.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/instructions.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/Materials/Selection.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/Materials/Selection.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/Materials/backdrop.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/Materials/backdrop.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/Materials/instructions.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Runtime Editing/Materials/instructions.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Vertex Colors/HighlightNearestFace.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Vertex Colors/HighlightNearestFace.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Vertex Colors/HighlightNearestFace.unity
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/API Examples/Vertex Colors/HighlightNearestFace.unity.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Font.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/ThirdPartyLicenses.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/ThirdPartyLicenses.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/changelog.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/changelog.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/pc_AboutEntry_ProBuilder.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/pc_AboutEntry_ProBuilder.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_AboutWindow.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_AboutWindow.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_UpdateAvailable.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_UpdateAvailable.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_UpdateCheck.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_UpdateCheck.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_VersionInfo.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_VersionInfo.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_VersionUtil.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Editor/pb_VersionUtil.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Font/Asap-Medium.otf
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Font/Asap-Medium.otf.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Font/Asap-Regular.otf
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Font/Asap-Regular.otf.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Font/SIL Open Font License.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Font/SIL Open Font License.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/Banner.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/Banner.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/Banner_Hover.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/Banner_Hover.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/Banner_Normal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/Banner_Normal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/DownloadPB_Hover.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/DownloadPB_Hover.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/DownloadPB_Normal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/DownloadPB_Normal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/ScrollBackground_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/ScrollBackground_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/ScrollBackground_Pro.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/About/Images/ScrollBackground_Pro.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderCore-Unity5.dll
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderCore-Unity5.dll.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/KdTreeLib.dll
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/KdTreeLib.dll.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/Poly2Tri.dll
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/Poly2Tri.dll.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/pb_Stl.dll
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Classes/ClassesLib/pb_Stl.dll.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Data/ProBuilderPreferences.asset
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Data/ProBuilderPreferences.asset.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/Addons.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/ProBuilderEditor-Unity5.dll
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/ProBuilderEditor-Unity5.dll.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/pb_MenuItems.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/pb_MenuItems.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/pb_MissingScriptEditor.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/pb_MissingScriptEditor.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/pb_Preferences.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/pb_Preferences.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/pb_ScenePostProcessor.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/pb_ScenePostProcessor.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/Addons/pb_Fbx.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/Addons/pb_Fbx.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Tools.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Window.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_ExportObj.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_ExportObj.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_GenerateUV2.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_GenerateUV2.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_MakeMeshAsset.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_MakeMeshAsset.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_ProBuilderize.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_ProBuilderize.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_StripProBuilderScripts.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Actions/pb_StripProBuilderScripts.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_BridgeEdges.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_BridgeEdges.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_ConformNormals.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_ConformNormals.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_ConnectEdges.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_ConnectEdges.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_DetachDeleteFace.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_DetachDeleteFace.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_ExtrudeElement.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_ExtrudeElement.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_FlipEdge.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_FlipEdge.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_FlipNormals.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_FlipNormals.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_FreezeTransform.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_FreezeTransform.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_MergeFaces.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_MergeFaces.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_SetPivot.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_SetPivot.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_Triangulate.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_Triangulate.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_VertexMergeWeld.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Geometry/pb_VertexMergeWeld.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_CleanLeakedMeshes.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_CleanLeakedMeshes.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_ForceSceneRefresh.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_ForceSceneRefresh.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RebuildMeshes.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RebuildMeshes.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RebuildSharedIndices.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RebuildSharedIndices.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RemoveDegenerateTris.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RemoveDegenerateTris.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RepairColors.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RepairColors.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RepairMeshReferences.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RepairMeshReferences.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RepairUV.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_RepairUV.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_ResetEntityMaterials.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_ResetEntityMaterials.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_UpgradeBasicToAdvanced.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Repair/pb_UpgradeBasicToAdvanced.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection/pb_EdgeSelection.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection/pb_EdgeSelection.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection/pb_ExpandSelection.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection/pb_ExpandSelection.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection/pb_InvertSelection.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection/pb_InvertSelection.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection/pb_MaterialSelection.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Selection/pb_MaterialSelection.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Tools/pb_BooleanInterface.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Tools/pb_BooleanInterface.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Tools/pb_MaterialSelection.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Tools/pb_MaterialSelection.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Window/pb_ProBuilderMenuItems.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Editor/MenuItems/Window/pb_ProBuilderMenuItems.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Edge.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Edge.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Edge_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Edge_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Face.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Face.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Face_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Face_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Object.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Object.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Object_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Object_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Vertex.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Vertex.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Vertex_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Modes/Mode_Vertex_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/AltButton_Hover.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/AltButton_Hover.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/AltButton_Normal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/AltButton_Normal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/AltButton_Pressed.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/AltButton_Pressed.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Bezier_Aligned.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Bezier_Aligned.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Bezier_Free.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Bezier_Free.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Bezier_Mirrored.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Bezier_Mirrored.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Hover.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Hover.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Hover_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Hover_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Normal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Normal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Normal_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Normal_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Pressed.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Pressed.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Pressed_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Button_Pressed_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Bevel.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Bevel.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Bevel_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Bevel_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Bridge.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Bridge.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Bridge_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Bridge_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Connect.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Connect.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Connect_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Connect_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Extrude.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Extrude.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Extrude_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Extrude_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_FillHole.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_FillHole.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_FillHole_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_FillHole_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_InsertLoop.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_InsertLoop.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_InsertLoop_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_InsertLoop_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Subdivide.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Subdivide.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Subdivide_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Edge_Subdivide_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_FaceNormals.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_FaceNormals.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_FaceNormals_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_FaceNormals_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_Individual.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_Individual.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_Individual_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_Individual_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_VertexNormals.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_VertexNormals.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_VertexNormals_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ExtrudeFace_VertexNormals_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Eye_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Eye_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Eye_Off_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Eye_Off_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Eye_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Eye_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Eye_On_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Eye_On_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_BreakSmoothing.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_BreakSmoothing.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_ConformNormals.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_ConformNormals.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_ConformNormals_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_ConformNormals_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Delete.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Delete.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Delete_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Delete_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Detach.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Detach.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Detach_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Detach_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipNormals.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipNormals.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipNormals_3D.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipNormals_3D.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipNormals_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipNormals_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipTri.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipTri.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipTri_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_FlipTri_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Merge.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Merge.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Merge_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Merge_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Subdivide.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Subdivide.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Subdivide_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Subdivide_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Triangulate.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Triangulate.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Triangulate_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Face_Triangulate_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/HandleAlign_Custom.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/HandleAlign_Custom.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/HandleAlign_Local.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/HandleAlign_Local.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/HandleAlign_Plane.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/HandleAlign_Plane.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/HandleAlign_World.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/HandleAlign_World.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Help.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Help.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Help_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Help_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Mode_Edge.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Mode_Edge.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Mode_Face.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Mode_Face.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Mode_Object.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Mode_Object.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Mode_Vert.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Mode_Vert.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/NewBezierSpline.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/NewBezierSpline.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/NewPolyShape.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/NewPolyShape.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_ConformNormals.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_ConformNormals.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_ConformNormals_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_ConformNormals_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Export.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Export.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Export_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Export_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_FlipNormals.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_FlipNormals.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_FlipNormals_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_FlipNormals_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_GenerateUV2.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_GenerateUV2.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_GenerateUV2_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_GenerateUV2_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Merge.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Merge.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Merge_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Merge_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Mirror.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Mirror.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Mirror_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Mirror_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_ProBuilderize.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_ProBuilderize.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_ProBuilderize_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_ProBuilderize_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Subdivide.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Subdivide.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Subdivide_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Subdivide_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Triangulate.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Triangulate.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Triangulate_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Object_Triangulate_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Options.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Options.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_Boolean.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_Boolean.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_GeoDrawing.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_GeoDrawing.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_Materials.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_Materials.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_Shapes.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_Shapes.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_Smoothing.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_Smoothing.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_UVEditor.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_UVEditor.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_VertColors.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Panel_VertColors.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_CenterOnElements.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_CenterOnElements.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_CenterOnElements_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_CenterOnElements_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_CenterOnObject.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_CenterOnObject.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_CenterOnObject_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_CenterOnObject_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_DirectEdit.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_DirectEdit.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_Reset.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_Reset.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_Reset_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Pivot_Reset_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ProOnly.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ProOnly.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/RoundedBorder.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/RoundedBorder.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Grow.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Grow.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Grow_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Grow_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Invert.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Invert.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Invert_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Invert_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Loop.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Loop.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Loop_Face.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Loop_Face.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Loop_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Loop_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Rect_Complete.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Rect_Complete.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Rect_Intersect.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Rect_Intersect.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Ring.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Ring.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Ring_Face.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Ring_Face.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Ring_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Ring_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectByMaterial.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectByMaterial.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectByMaterial_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectByMaterial_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectBySmoothingGroup.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectBySmoothingGroup.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectBySmoothingGroup_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectBySmoothingGroup_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectByVertexColor.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectByVertexColor.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectByVertexColor_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectByVertexColor_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectHidden-OFF.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectHidden-OFF.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectHidden-ON.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectHidden-ON.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectHole.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_SelectHole.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_ShiftAdd.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_ShiftAdd.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_ShiftDifference.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_ShiftDifference.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_ShiftSubtract.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_ShiftSubtract.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Shrink.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Shrink.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Shrink_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Selection_Shrink_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Down.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Down.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Down_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Down_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Left.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Left.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Left_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Left_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Right.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Right.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Right_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Right_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Up.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Up.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Up_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/ShowNextPage_Up_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Texturing_Paintbrush.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Texturing_Paintbrush.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Collapse.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Collapse.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Collapse_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Collapse_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Connect.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Connect.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Connect_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Connect_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Split.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Split.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Split_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Split_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Weld.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Weld.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Weld_disabled.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Vert_Weld_disabled.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/null.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/null.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/AccentBar_Bottom.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/AccentBar_Bottom.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Hover.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Hover.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Hover_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Hover_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Normal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Normal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Normal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Normal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Pressed.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Pressed.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Pressed_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Circle-22px_Pressed_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Hover_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Hover_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Hover_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Hover_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Hover_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Hover_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Hover_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Hover_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Normal_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Normal_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Normal_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Normal_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Normal_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Normal_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Normal_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Normal_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Pressed_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Pressed_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Pressed_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Pressed_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Pressed_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Pressed_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Pressed_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Geo_Pressed_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Hover_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Hover_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Hover_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Hover_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Hover_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Hover_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Hover_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Hover_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Normal_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Normal_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Normal_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Normal_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Normal_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Normal_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Normal_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Normal_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Pressed_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Pressed_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Pressed_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Pressed_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Pressed_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Pressed_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Pressed_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Object_Pressed_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover_Blue.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover_Blue.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover_BlueSteel.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover_BlueSteel.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover_Orange.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Hover_Orange.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal_Blue.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal_Blue.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal_BlueSteel.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal_BlueSteel.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal_Orange.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Normal_Orange.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed_Blue.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed_Blue.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed_BlueSteel.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed_BlueSteel.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed_Orange.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/RoundedRect_Pressed_Orange.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Hover_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Hover_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Hover_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Hover_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Hover_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Hover_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Hover_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Hover_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Normal_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Normal_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Normal_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Normal_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Normal_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Normal_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Normal_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Normal_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Pressed_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Pressed_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Pressed_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Pressed_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Pressed_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Pressed_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Pressed_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Selection_Pressed_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Hover_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Hover_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Hover_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Hover_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Hover_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Hover_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Hover_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Hover_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Normal_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Normal_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Normal_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Normal_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Normal_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Normal_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Normal_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Normal_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Pressed_Horizontal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Pressed_Horizontal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Pressed_Horizontal_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Pressed_Horizontal_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Pressed_Vertical.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Pressed_Vertical.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Pressed_Vertical_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/Toolbar/Background/Tool_Pressed_Vertical_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/ProBuilderGUI_UV_Manip_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/ProBuilderGUI_UV_Manip_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/ProBuilderGUI_UV_Manip_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/ProBuilderGUI_UV_Manip_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/ProBuilderGUI_UV_ShowTexture_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/ProBuilderGUI_UV_ShowTexture_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/ProBuilderGUI_UV_ShowTexture_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/ProBuilderGUI_UV_ShowTexture_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/camera-64x64.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/camera-64x64.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/camera-64x64_Light.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Icons/UVEditor/camera-64x64_Light.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Checker.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Checker.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Materials/Checker.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Materials/Checker.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Materials/GridBox_Collider.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Materials/GridBox_Collider.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/Checker.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/Checker.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/GridBox_Collider.tga
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/GridBox_Collider.tga.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/GridBox_NoDraw.tga
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/GridBox_NoDraw.tga.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/GridBox_Trigger.tga
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/GridBox_Trigger.tga.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/VertOff.tga
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Material/Textures/VertOff.tga.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Textures.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/Collider.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/Collider.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/Default_Prototype.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/Default_Prototype.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/FacePicker.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/FacePicker.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/InvisibleFace.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/InvisibleFace.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/NoDraw.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/NoDraw.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/Trigger.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/Trigger.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/UnlitVertexColor.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/UnlitVertexColor.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/VertexPicker.mat
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Materials/VertexPicker.mat.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Textures/GridBox_Default.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Resources/Textures/GridBox_Default.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/DiffuseTextureBlend.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/DiffuseTextureBlend.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/DiffuseVertexColor.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/DiffuseVertexColor.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_FaceHighlight.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_FaceHighlight.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_FacePicker.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_FacePicker.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_HideVertices.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_HideVertices.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_NormalPreview.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_NormalPreview.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_ReferenceUnlit.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_ReferenceUnlit.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_ScrollHighlight.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_ScrollHighlight.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_SelectionPicker.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_SelectionPicker.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_SmoothingPreview.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_SmoothingPreview.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_StandardVertexColor.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_StandardVertexColor.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_TransparentOverlay.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_TransparentOverlay.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_UnlitSolidColor.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_UnlitSolidColor.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_UnlitVertexColor.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_UnlitVertexColor.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_VertexPicker.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_VertexPicker.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_VertexShader.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProBuilder/Shader/pb_VertexShader.shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/MonoBehaviour.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/ProGrids_Documentation.pdf
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/ProGrids_Documentation.pdf.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Shader.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Editor.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/changelog.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/changelog.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/pc_AboutEntry_ProGrids.txt
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/pc_AboutEntry_ProGrids.txt.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Editor/pg_AboutWindow.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Editor/pg_AboutWindow.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/Banner.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/Banner.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/ProBuilder_AssetStore_Icon_96px.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/ProBuilder_AssetStore_Icon_96px.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/ProGrids_AssetStore_Icon_96px.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/ProGrids_AssetStore_Icon_96px.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/ProGroups_AssetStore_Icon_96px.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/ProGroups_AssetStore_Icon_96px.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/Prototype_AssetStore_Icon_96px.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/Prototype_AssetStore_Icon_96px.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/QuickBrush_AssetStore_Icon_96px.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/QuickBrush_AssetStore_Icon_96px.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/QuickDecals_AssetStore_Icon_96px.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/QuickDecals_AssetStore_Icon_96px.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/QuickEdit_AssetStore_Icon_96px.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/About/Images/QuickEdit_AssetStore_Icon_96px.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_Constant.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_Constant.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_Enum.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_Enum.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_IconUtility.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_IconUtility.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_IgnoreSnapAttribute.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_IgnoreSnapAttribute.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_SceneMeshRender.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_SceneMeshRender.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_Util.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Classes/pg_Util.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_Editor.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_Editor.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_GridRenderer.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_GridRenderer.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_ParameterWindow.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_ParameterWindow.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_Preferences.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_Preferences.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_ToggleContent.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Editor/pg_ToggleContent.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_Button_Hover.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_Button_Hover.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_Button_Normal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_Button_Normal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_AngleVis_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_AngleVis_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_AngleVis_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_AngleVis_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Divider.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Divider.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_3D_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_3D_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_3D_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_3D_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Lock_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Lock_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Lock_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Lock_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_X_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_X_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_X_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_X_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Y_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Y_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Y_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Y_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Z_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Z_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Z_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Z_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PushToGrid_Normal.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PushToGrid_Normal.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PushToGrid_Pressed.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PushToGrid_Pressed.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Snap_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Snap_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Snap_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Snap_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Vis_Off.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Vis_Off.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Vis_On.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Vis_On.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_MenuExtendo_Close.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_MenuExtendo_Close.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_MenuExtendo_Open.png
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_MenuExtendo_Open.png.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/MonoBehaviour/pg_IgnoreSnap.cs
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/MonoBehaviour/pg_IgnoreSnap.cs.meta
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Shader/pg_GridShader.shader
+/Volumes/MonarchGameDrive/Monarch/DungeonCrawler2/Assets/Tools/ProCore/ProGrids/Shader/pg_GridShader.shader.meta
