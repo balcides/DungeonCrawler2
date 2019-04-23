@@ -53,6 +53,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\Displace.cs" />
+     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\GerstnerDisplace.cs" />
+     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\MeshContainer.cs" />
+     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\PlanarReflection.cs" />
+     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\SpecularLighting.cs" />
+     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\Water.cs" />
+     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\WaterBase.cs" />
+     <Compile Include="Assets\Prefabs\Environment\Water\Scripts\WaterTile.cs" />
      <Compile Include="Assets\Scripts\Cinematics\CinematicControlRemover.cs" />
      <Compile Include="Assets\Scripts\Cinematics\CinematicTrigger.cs" />
      <Compile Include="Assets\Scripts\Combat\CombatTarget.cs" />
@@ -108,6 +116,7 @@
      <None Include="Assets\Tools\ProBuilder\Shader\pb_FacePicker.shader" />
      <None Include="Assets\Tools\ProBuilder\About\Font\SIL Open Font License.txt" />
      <None Include="Assets\Tools\ProBuilder\About\pc_AboutEntry_ProBuilder.txt" />
+     <None Include="Assets\Prefabs\Environment\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Tools\ProBuilder\Shader\pb_VertexShader.shader" />
      <None Include="Assets\Tools\ProCore\ProGrids\About\changelog.txt" />
      <None Include="Assets\Tools\ProBuilder\Shader\pb_NormalPreview.shader" />
