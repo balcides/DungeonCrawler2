@@ -13,8 +13,13 @@ namespace RPG.Saving
     {
         public void Save(string saveFile)
         {
+            //Load old state dict
             Dictionary<string, object> state = LoadFile(saveFile);
+
+            //capture in new state
             CaptureState(state);
+
+            //save back to file
             SaveFile(saveFile, state);
         }
 
